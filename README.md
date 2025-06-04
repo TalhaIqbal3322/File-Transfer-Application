@@ -34,7 +34,7 @@ Try the app here: (https://file-transfer-application.streamlit.app/)
 
 
 
-git clone https://github.com/yourusername/file-transfer-application.git
+git clone https://github.com/TalhaIqbal3322/file-transfer-application.git
 
 cd file-transfer-application
 
@@ -54,3 +54,5 @@ For collaboration or inquiries, please connect via GitHub or email.
 Developer: Talha Iqbal
 
 Email: talhaiqbal.digitalnexus@gmail.com
+
+---
