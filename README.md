@@ -24,13 +24,15 @@ Try the app here: (https://file-transfer-application.streamlit.app/)
 
 - **Frontend/UI**: Streamlit  
 - **Backend**: Python 3.x  
-- **Networking**: Python `socket` and `http.server` modules (or your chosen networking stack)  
+- **Networking**: Python `socket` and `http.server` modules   
 - **File Handling**: Python standard libraries  
 - **Notifications**: Streamlit notifications and alerts
 
-----
+
 📥 How to Run
+
 ----
+
 git clone https://github.com/yourusername/file-transfer-application.git
 
 cd file-transfer-application
@@ -41,9 +43,11 @@ streamlit run app.py
 
 
 
------
+
 📩 Contact
+
 -----
+
 For collaboration or inquiries, please connect via GitHub or email.
 
 Developer: Talha Iqbal
