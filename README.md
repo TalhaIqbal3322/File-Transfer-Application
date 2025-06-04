@@ -28,10 +28,11 @@ Try the app here: (https://file-transfer-application.streamlit.app/)
 - **File Handling**: Python standard libraries  
 - **Notifications**: Streamlit notifications and alerts
 
+---
 
-📥 How to Run
+## 📥 How to Run
 
-----
+
 
 git clone https://github.com/yourusername/file-transfer-application.git
 
@@ -42,11 +43,11 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
+---
+
+## 📩 Contact
 
 
-📩 Contact
-
------
 
 For collaboration or inquiries, please connect via GitHub or email.
 
